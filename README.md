@@ -35,7 +35,7 @@ Flashy is a Python-based flashcard application for learning French vocabulary. T
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flashy.git
+   git clone https://github.com/Zar1717/flashy.git
 2. Navigate to the project folder:
    ```bash
    cd flashy
